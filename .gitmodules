@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "APtools"]
 	path = APtools
 	url = https://github.com/cran/APtools
-	shallow = true
-	registered = true
